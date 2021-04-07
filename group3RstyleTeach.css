@@ -1,0 +1,66 @@
+
+@font-face p {
+font-family: Tahoma, Verdana, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	}
+
+
+h1 {
+text-align:center; color:#000000; font-weight:700; font-family: Arial; font-size:2.5em;
+}
+
+h2 {
+text-align: left; color:#000000; font-family: Arial; font-size:1.75em;
+}
+
+h3 {
+text-align: left; color:black; font-family: Arial; font-size:1.25em;
+}
+
+body {
+margin-left:10%; margin-right:10%; font-family: Arial; 
+background-color:#ffffff;
+background-repeat:no-repeat;
+}
+
+#menu {
+color:#000000; font-family: Arial; margin-top:2%; text-align:center; display:inline;
+}
+
+th {
+  text-align: left;
+}
+
+<style>
+a:link {
+  color: black; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+a:visited {
+  color: #0000ff;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: black;
+  background-color: #E5E8E8;
+  text-decoration: none;
+}
+
+.floatright
+{
+float: right;
+width: 50%;
+length: 50%;
+	text-align:center; 
+	color:#000000;
+	font-weight:700;
+	font-family: Arial;
+	font-size:50%;
+}
+
+</style>
