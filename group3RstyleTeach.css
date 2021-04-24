@@ -36,8 +36,16 @@ h2 {
 text-align:center; color:#000000; font-weight:500; font-family: 'opendyslexic'; font-size:1.5em; line-height: normal;
 }
 
+h4 {
+text-align:center; color:##69b37d; font-weight:500; font-family: 'opendyslexic'; font-size:1.5em; line-height: normal;
+}
+
 h3 {
 text-align:justify; color:#000000; font-weight:250; font-family: 'opendyslexic'; font-size:1em; line-height: normal;
+}
+
+h5 {
+text-align:justify; color:##69b37d; font-weight:250; font-family: 'opendyslexic'; font-size:1em; line-height: normal;
 }
 
 body {
