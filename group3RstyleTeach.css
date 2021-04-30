@@ -210,6 +210,14 @@ div.c {
 
 div.d {
   text-align: justify;
-} 
+}
+
+.yellow-div {
+  background-color:#E8E8E8;
+  width: 500px;
+  padding: 25px;
+  border: 5px solid black;
+  margin:15px;
+}
 
 </style>
